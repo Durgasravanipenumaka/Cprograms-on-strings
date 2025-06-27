@@ -1,3 +1,5 @@
+//18. Write a program in C to find the frequency of characters.
+
 #include<stdio.h>
 int main(){
 	char str[100];

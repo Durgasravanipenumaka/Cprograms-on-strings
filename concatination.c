@@ -1,3 +1,5 @@
+//concatination of a string without using library function.
+
 #include<stdio.h>
 #include<string.h>
 int main(){
@@ -11,6 +13,7 @@ int main(){
 	for(int i=0;i<len2;i++){
 		s1[len1+i]=s2[i];
 	}
+	str[len1+len2]='\0';
 	printf("\nstring after concatination:%s",s1);
 }
 	

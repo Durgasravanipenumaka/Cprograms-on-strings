@@ -1,3 +1,4 @@
+//6. Write a program in C to compare two strings without using string library functions.
 #include<stdio.h>
 int main(){
 	char s1[30],s2[30];

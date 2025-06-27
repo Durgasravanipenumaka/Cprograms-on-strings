@@ -1,3 +1,5 @@
+//Maximum repeated character and maximum frequency of the character.
+
 #include<stdio.h>
 int main(){
 	char s1[100];

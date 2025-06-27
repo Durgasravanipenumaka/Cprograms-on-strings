@@ -1,3 +1,5 @@
+//Number of words in the given string.
+
 #include<stdio.h>
 int main(){
 	char s1[100];

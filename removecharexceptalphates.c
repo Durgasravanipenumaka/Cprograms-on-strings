@@ -1,3 +1,5 @@
+//17. Write a program in C to remove characters from a string except alphabets.
+
 #include<stdio.h>
 int main(){
 	char str[100];

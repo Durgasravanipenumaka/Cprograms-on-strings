@@ -1,3 +1,6 @@
+//15. Write a program in C to read a sentence and replace lowercase characters with uppercase
+//and vice versa.
+
 #include<stdio.h>
 int main(){
 	char str[100];

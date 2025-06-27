@@ -1,3 +1,5 @@
+//8. Write a program in C to copy one string to another string
+
 #include<stdio.h>
 int main(){
 	char s1[100],s2[100];

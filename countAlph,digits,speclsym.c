@@ -1,3 +1,6 @@
+//7. Write a program in C to count the total number of alphabets, digits and special characters in
+a string
+
 #include<stdio.h>
 int main(){
 	int alph=0,digits=0,specials=0;
